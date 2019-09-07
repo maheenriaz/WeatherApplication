@@ -1,0 +1,39 @@
+body
+{
+    background-color: rgb(163, 92, 74);
+}
+#list
+{
+    color: white;
+}
+.col-md-12
+{
+    text-align: center;
+}
+button
+{
+    margin: auto;
+}
+.list li
+{
+    text-align: center;
+}
+#input-user
+{
+   width: 240px;
+  
+}
+#heading
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: rgb(128, 122, 122);
+}
+@media screen and (max-width: 770px)
+{
+   #input-user
+   {
+      
+       margin: auto;
+   }
+}
